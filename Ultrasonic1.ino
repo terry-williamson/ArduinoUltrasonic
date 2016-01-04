@@ -1,5 +1,6 @@
 // Ultrasonic Range Finder
 // Maxbotix LV-MaxSonar-EZ2
+// Small change to see how GIT works
 
 
 // include the library code:
